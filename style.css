@@ -1,6 +1,7 @@
 .links-border {
   width: 90%;
-  border: 1px red solid;
+  border: 1px #C9D5FD solid;
+  border-radius: 5px;
   padding: 5px;
   margin: 5px;
 }
@@ -19,4 +20,9 @@ img {
 
 .carousel-inner img{
   display: inline-block !important;
+}
+
+a {
+  color: #5061C5;
+  font-weight: bold;
 }
