@@ -1,0 +1,22 @@
+.links-border {
+  width: 90%;
+  border: 1px red solid;
+  padding: 5px;
+  margin: 5px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.subtitle {
+  margin: 5px 0 0 0;
+}
+
+.pic-div {
+  text-align: center;
+}
+
+.carousel-inner img{
+  display: inline-block !important;
+}
