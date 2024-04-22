@@ -23,7 +23,19 @@ img {
   display: inline-block !important;
 }
 
-a {
+.mid-blue {
   color: #5061C5;
+}
+
+.dark-blue {
+  color: #271B80;
+}
+
+a {
   font-weight: bold;
+  font-size: larger;
+}
+
+a:hover {
+  text-shadow: 1px 1px 1px #bababa;
 }
